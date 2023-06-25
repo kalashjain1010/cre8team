@@ -4,7 +4,7 @@ import LoginComponent from '../components/LoginComponent'
 function Login() {
   return (
     <div>
-      <LoginComponent/>
+       <LoginComponent/>
     </div>
   )
 }
